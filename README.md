@@ -8,4 +8,4 @@ currently learning:
 building stuff, breaking stuff,
 and trying not to get hacked along the way.
 
-¯\*(ツ)*/¯
+¯ \*(ツ)*/¯
