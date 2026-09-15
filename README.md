@@ -6,4 +6,4 @@ currently learning:
 `Python` · `C++` · `AI` · `Cybersecurity`
 
 building stuff, breaking stuff,
-and trying not to get hacked along the way :)
+and trying to lay the groundwork for something bigger :)
